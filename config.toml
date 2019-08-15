@@ -13,7 +13,7 @@ title = "Compile Black Hills"
 [params.hero]
   img = "images/hero_bg.jpg"
   title = "Linking Software Professionals"
-  description = "Lovingly hand-crafted by the fine folks at [FreeHTML5.co](http://freehtml5.co/)"
+  description = "We’re a local connnecting developers elegantly connected, digitally enhanced, and well-communicated world. Are you with us?"
 
 # Navigation section
 [params.nav]
