@@ -11,9 +11,9 @@ title = "Compile Black Hills"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
-  img = "images/hero_bg.jpg"
+  img = "images/hero_vbg.jpg"
   title = "Linking Software Professionals"
-  description = "We’re a local connnecting developers elegantly connected, digitally enhanced, and well-communicated world. Are you with us?"
+  description = "We are a local group of developers sharing information and experience."
 
 # Navigation section
 [params.nav]
@@ -32,13 +32,13 @@ title = "Compile Black Hills"
     enable = true
 
     [[params.mission.images.list]]
-      img = "images/img_3.jpg"
+      img = "images/img_v4.jpg"
     [[params.mission.images.list]]
-      img = "images/img_2.jpg"
+      img = "images/img_v3.jpg"
     [[params.mission.images.list]]
-      img = "images/img_1.jpg"
+      img = "images/img_v1.jpg"
     [[params.mission.images.list]]
-      img = "images/img_4.jpg"
+      img = "images/img_v2.jpg"
 
   [[params.mission.item]]
     weight = 1
@@ -66,7 +66,7 @@ title = "Compile Black Hills"
   enable = true
   video = true
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
-  title = "Our Services"
+  title = "Our Events"
   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
   [[params.services.item]]
