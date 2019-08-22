@@ -71,34 +71,28 @@ title = "Compile Black Hills"
   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
   [[params.services.item]]
-    icon = "icon-present"
+    icon = "images/icons/webdevicon.png"
     title = "Web Development"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
   [[params.services.item]]
-    icon = "icon-eye"
-    title = "Retina Ready"
+    icon = "images/icons/softwaredevicon.png"
+    title = "Software Development"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
   [[params.services.item]]
-    icon = "icon-paper-plane"
-    title = "Light Speed"
+    icon = "images/icons/mobiledev.png"
+    title = "Mobile Development"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
-  [[params.services.item]]
-    icon = "icon-pencil"
-    title = "Copyrighting"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  
 
   [[params.services.item]]
     icon = "icon-rocket"
-    title = "Load Fast"
+    title = "DevOps"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
-  [[params.services.item]]
-    icon = "icon-support"
-    title = "Customer Support"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  
 
 # Work section
 [params.work]
@@ -210,7 +204,8 @@ title = "Compile Black Hills"
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p><small>&copy; Compile Black Hills, All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a></small></p>"
+  logosm_img = "images/CompileBHLogoSM.png"
+  note = "<p><small>&copy;Compile Black Hills, All Rights Reserved.</p>"
   github = "#"
   twitter = "#"
   facebook = "#"
